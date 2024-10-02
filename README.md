@@ -1,18 +1,16 @@
-# 🎈 Blank app template
+# Trabalho apresentado à discipla de Visualização de Dados
 
-A simple Streamlit app template for you to modify!
+Trabalho apresentado para obtenção de nota no curso de Análise de Dados e Inteligência Artificial
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
+Instruções de execução:
 
-### How to run it on your own machine
-
-1. Install the requirements
+1. Instalar as dependências
 
    ```
    $ pip install -r requirements.txt
    ```
 
-2. Run the app
+2. Executar aplicação
 
    ```
    $ streamlit run streamlit_app.py
